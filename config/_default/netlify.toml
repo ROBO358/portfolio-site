@@ -8,7 +8,7 @@
 [context.production.environment]
   HUGO_ENV           = "production"
   HUGO_ENABLEGITINFO = "true"
-  HUGO_VERSION = "0.121.0"
+  HUGO_VERSION = "0.121.2"
 
 [context.split1]
   command = "hugo --gc --minify --enableGitInfo"
@@ -20,7 +20,7 @@
   command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
 
   [context.deploy-preview.environment]
-    HUGO_VERSION = "0.121.0"
+    HUGO_VERSION = "0.121.2"
 
 [context.branch-deploy]
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"

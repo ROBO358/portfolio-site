@@ -1,0 +1,33 @@
+baseURL = 'https://portfolio-robo358.netlify.app/'
+title = 'Tsuru-Portfolio|ポートフォリオ'
+copyright = '@ROBO358'
+theme = 'lightbi-hugo'
+
+languageCode = 'ja'
+defaultContentLanguage = 'ja'
+hasCJKLanguage = true
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Notes"
+    url = "/notes/"
+    weight = 2
+
+[[menu.main]]
+    name = "Tags"
+    url = "/tags/blog/"
+    weight = 3
+
+[[menu.main]]
+    name = "Collections"
+    url = "/collections/"
+    weight = 4
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 5
