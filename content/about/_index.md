@@ -4,17 +4,18 @@ layout : "about"
 title: "About me"
 ---
 
-I am Bino Kochumol Varghese.
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+幼い頃にNHKにてロボコンを見て機械に興味を持ち、小学生から7年ほどプログラミング教室に通い高校や大学にて情報工学について学んだ。
+その後、セキュリティプロダクトエンジニアとして社会人をしている。
+C言語を始めC#,C++,Java,Kotlin,VB.net,JS,Python,Ruby,Golangなどなどに触れてきた。
 
 ##### Social Media
-- [Instagram](https://www.instagram.com/binovarghese_)
-- [Twitter](https://twitter.com/binovarghese_)
-- [Linkedin](https://linkedin.com/in/binovarghese-)
- 
 
+- [X(Twitter)](https://twitter.com/ROBO358)
+- [Nostr](https://nostrpurple.com/s/robo358)
+- [Mastdon](https://mstdn.jp/@ROBO358)
+- [Instagram](https://www.instagram.com/robo358/)
+- [Linkedin](https://linkedin.com/in/ryosuke-tsurudo-37b123296/)
+ 
+##### Other
+
+- [GitHub](https://github.com/ROBO358)
