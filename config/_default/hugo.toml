@@ -7,6 +7,23 @@ languageCode = 'ja'
 defaultContentLanguage = 'ja'
 hasCJKLanguage = true
 
+[Params]
+socialShare = true
+authorInfo = "つるるん🥕@ROBO358"
+description="ROBO358が作成した作品をまとめた"
+
+[Author]
+  name = "TSURUDO, Ryosuke"
+  website = "https://ROBO358.com/"
+  email = "rroobboo.358@gmail.com"
+#  facebook = "username"
+#  instagram = "username"
+#  youtube = "user/username" # or channel/channelname
+  twitter = "ROBO358"
+#  threads = "username"
+#  linkedin = "username"
+  github = "ROBO358"
+
 [[menu.main]]
     name = "Home"
     url = "/"
