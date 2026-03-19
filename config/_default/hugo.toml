@@ -1,5 +1,5 @@
 baseURL = 'https://portfolio-robo358.netlify.app/'
-title = 'Tsuru-Portfolio|ポートフォリオ'
+title = 'Tsuru-Portfolio'
 copyright = '@ROBO358'
 theme = 'lightbi-hugo'
 
@@ -15,7 +15,7 @@ description="ROBO358が作成した作品をまとめた"
 [Author]
   name = "TSURUDO, Ryosuke"
   website = "https://ROBO358.com/"
-  email = "rroobboo.358@gmail.com"
+  email = "rroobboo.358+portfolio@gmail.com"
 #  facebook = "username"
 #  instagram = "username"
 #  youtube = "user/username" # or channel/channelname
