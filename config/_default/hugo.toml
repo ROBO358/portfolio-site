@@ -8,14 +8,14 @@ defaultContentLanguage = 'ja'
 hasCJKLanguage = true
 
 [Params]
-homepageLayout = "profile"
+homepageLayout = "blog"
 previewCardImagePlacement = "top"
 socialShare = true
 authorInfo = "つるるん🥕@ROBO358"
 hideAuthor = true
 description="ROBO358が作成した作品をまとめた"
 
-[Author]
+[Params.Author]
   website = "https://ROBO358.com/"
 #  facebook = "username"
 #  instagram = "username"
