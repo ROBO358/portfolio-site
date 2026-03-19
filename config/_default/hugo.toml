@@ -8,8 +8,11 @@ defaultContentLanguage = 'ja'
 hasCJKLanguage = true
 
 [Params]
+homepageLayout = "profile"
+previewCardImagePlacement = "top"
 socialShare = true
 authorInfo = "つるるん🥕@ROBO358"
+hideAuthor = true
 description="ROBO358が作成した作品をまとめた"
 
 [Author]
