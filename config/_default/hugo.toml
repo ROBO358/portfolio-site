@@ -1,41 +1,69 @@
-baseURL = 'https://portfolio-robo358.netlify.app/'
-title = 'Tsuru-Portfolio'
-copyright = '@ROBO358'
-theme = 'lightbi-hugo'
+# -- Site Configuration --
+# Refer to the theme docs for more details about each of these parameters.
+# https://blowfish.page/docs/getting-started/
 
-languageCode = 'ja'
-defaultContentLanguage = 'ja'
-hasCJKLanguage = true
+theme = "blowfish" # UNCOMMENT THIS LINE
+baseURL = "https://ROBO358.com/"
+defaultContentLanguage = "ja"
 
-[Params]
-homepageLayout = "blog"
-previewCardImagePlacement = "top"
-socialShare = true
-authorInfo = "つるるん🥕@ROBO358"
-hideAuthor = true
-description="ROBO358が作成した作品をまとめた"
+pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
-[Params.Author]
-  website = "https://ROBO358.com/"
-#  facebook = "username"
-#  instagram = "username"
-#  youtube = "user/username" # or channel/channelname
-  twitter = "ROBO358"
-#  threads = "username"
-#  linkedin = "username"
-  github = "ROBO358"
+enableRobotsTXT = true
+summaryLength = 0
 
-[[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
+buildDrafts = false
+buildFuture = false
 
-[[menu.main]]
-    name = "Tags"
-    url = "/tags/blog/"
-    weight = 2
+enableEmoji = true
 
-[[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 3
+# googleAnalytics = "G-XXXXXXXXX"
+
+[pagination]
+  pagerSize = 100
+
+[imaging]
+  anchor = 'Center'
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  author = "authors"
+  series = "series"
+
+[sitemap]
+  changefreq = 'daily'
+  filename = 'sitemap.xml'
+  priority = 0.5
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[related]
+  threshold = 0
+  toLower = false
+
+    [[related.indices]]
+        name = "tags"
+        weight = 100
+
+    [[related.indices]]
+        name = "categories"
+        weight = 100
+
+    [[related.indices]]
+        name = "series"
+        weight = 50
+
+    [[related.indices]]
+        name = "authors"
+        weight = 20
+
+    [[related.indices]]
+        name = "date"
+        weight = 10
+
+    [[related.indices]]
+      applyFilter = false
+      name = 'fragmentrefs'
+      type = 'fragments'
+      weight = 10

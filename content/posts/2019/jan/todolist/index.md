@@ -2,8 +2,7 @@
 title: ToDoList
 date: 2019-01-01
 tags: ["products"]
-image : "about.png"
-Description: "高校の生徒会本部役員として予定管理の必要性を感じ開発したAndroidタスク管理アプリ"
+description: "高校の生徒会本部役員として予定管理の必要性を感じ開発したAndroidタスク管理アプリ"
 ---
 自身が高校で生徒会本部役員をやっていたこともあり、予定の管理を行うことが必要であった。そのため、タスク(予定)管理が可能なAndroidアプリケーションの開発を行った。
 

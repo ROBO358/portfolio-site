@@ -2,8 +2,7 @@
 title: 宿泊予約システム
 date: 2022-10-20
 tags: ["products"]
-image : "about.png"
-Description: "Ruby on Railsを用いたグループワークとして設計・実装した宿泊予約システム"
+description: "Ruby on Railsを用いたグループワークとして設計・実装した宿泊予約システム"
 ---
 課題として、宿泊予約システムをRuby on Railsで設計・実装するというものがあった。
 半年の間に学習から設計・実装という流れになっており、開発はグループワークとなっていた。

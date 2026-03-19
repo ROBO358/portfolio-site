@@ -2,7 +2,7 @@
 title: 分散型SNSのイベントをした(Nostr, Bluesky, …など?)
 date: 2023-12-09
 tags: ["event"]
-Description: "2023年12月8日に開催した「新時代の分散型SNS勉強会」の運営レポート"
+description: "2023年12月8日に開催した「新時代の分散型SNS勉強会」の運営レポート"
 ---
 > このサイトを動かすのもだいぶお久しぶりになってしまいました。
 > のんびり、大学時代にやったこととかを投稿していこうかなと思っていましたが、NostrのAdvent Calendarが2つも（[第一会場](https://adventar.org/calendars/8794)・[第二会場](https://adventar.org/calendars/8880)）立ち上がったので、重い腰をあげて投稿してみます。
